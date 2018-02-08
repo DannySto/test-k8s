@@ -4,9 +4,8 @@ prerequisites
 - install vagrant
 - install virtualbox
 Turnkey **[Kubernetes](https://github.com/GoogleCloudPlatform/kubernetes)**
-cluster setup with **[Vagrant 1.8,6+](https://www.vagrantup.com)** and
+cluster setup with **[Vagrant](https://www.vagrantup.com)** and
 **[CoreOS](https://coreos.com)**.
-[![Submit Queue Widget]][Submit Queue] [![GoDoc Widget]][GoDoc] [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/569/badge)](https://bestpractices.coreinfrastructure.org/projects/569)
 
 <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="100">
 
